@@ -9,7 +9,7 @@ I'm a second year Cyber Secuirty and Digital Forensics student studying in Techn
 Programming Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kali,linux,ubuntu,java,stackoverflow,py,c,css,cpp,visualstudio,arduino,html,js,jquery,bootstrap,css,php,eclipse,figma,firebase,mysql,raspberrypi," />
+    <img src="https://skillicons.dev/icons?i=git,github,kali,linux,ubuntu,java,stackoverflow,py,c,css,cpp,visualstudio,arduino,html,js,jquery,bootstrap,css,php,eclipse,figma,firebase,mysql,raspberrypi,ableton,debian" />
   </a>
 </p>
 
