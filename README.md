@@ -6,7 +6,7 @@ I'm a second year Cyber Secuirty and Digital Forensics student studying in Techn
 
 🛠️ Skills
 
-Programming Languages:
+Programming Languages/Software/Terminals I've worked with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,kali,linux,ubuntu,java,stackoverflow,py,c,css,cpp,visualstudio,arduino,html,js" />
@@ -22,17 +22,15 @@ Programming Languages:
 
 🔹 Web Development
 
-[Project Name] - A full-stack web application using PHP, SQL, HTML, CSS, and JavaScript.
-
-[Project Name] - A modern front-end website built with React.js and Bootstrap.
+ https://github.com/Senaraufi/SofwareEngineering-Project- A full-stack web application using PHP, SQL, HTML, CSS, and JavaScript with a modern front-end design built with Bootstrap. (A work in Progress)
 
 🔹 Game Development
 
-[Project Name] - A Unity-based game developed in C# with interactive mechanics.
+https://github.com/Senaraufi/IMM-Game_Final - A Unity-based game developed in C# with interactive mechanics. (A work in Progress)
 
 🔹 Networking & Security
 
-[Project Name] - A Cisco network security project with VLANs, firewalls, and access control.
+------- WORK IN PROGRESS ------
 
 📫 Connect With Me
 
