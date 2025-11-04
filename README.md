@@ -2,7 +2,7 @@ Hi there, I'm Pixie Grogan!
 
 A little about Me...
 
-I'm a second year Cyber Secuirty and Digital Forensics student studying in Technology University Dublin, and I've been programming for about 4 years or so!
+I'm a third year Cyber Secuirty and Digital Forensics student studying in Technology University Dublin, and I've been programming for about 4 years or so!
 I've got skills in a wide range of lanuages now, skills in networking, game development, web development, database development and even in 
 physical hardware as I've worked with Arduino bots before too.
 
