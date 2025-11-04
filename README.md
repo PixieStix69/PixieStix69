@@ -21,6 +21,7 @@ Programming Languages/Software/Terminals I've worked with:
   </a>
 </p>
 📂 Projects
+
 🔹 VeloriaViz
 
 -VeloriaViz is an interactive Spotify artist exploration and audio visualization web application. Discover new music by exploring a dynamic network graph of related artists, preview tracks, and watch real-time audio visualizations sync to the music.
